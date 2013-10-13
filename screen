@@ -1,0 +1,119 @@
+ >> Number of Processors =   8
+ 
+    >>Normalized Constraint Values:
+    -0.96E+00
+    -0.85E+00
+    -0.36E+00
+ 
+ Samex in con
+  >> Gradient of obj:
+  0.999983733798130       5.045564580244597E-003
+  0.999994491558893       5.041878177244331E-003
+ 
+ 
+    >>Objective:       1.0000       0.0050       1.0050
+ 
+ 
+ iter    objective      ||grad||        inf_pr          inf_du         lg(mu)
+    0  0.1005024E+01  0.0000000E+00  0.0000000E+00  0.5709456E+00  0.1000000E+01
+ 
+    >>Normalized Constraint Values:
+    -0.76E+00
+    -0.50E+00
+    -0.31E+00
+ 
+ 
+    >>Objective:       0.3409       0.0017       0.3426
+ 
+ Samex in obj
+ grad obj  0.563812936138017       0.610688910165681     
+ 
+ Samex in con
+    1  0.3426011E+00  0.4391799E+00  0.2183957E+00  0.2491971E+00  0.7349727E-06
+ 
+    >>Normalized Constraint Values:
+    -0.29E+00
+     0.14E-01
+    -0.27E+00
+ 
+ 
+    >>Objective:       0.1913       0.0010       0.1923
+ 
+ Samex in obj
+ grad obj  0.409980112088487       0.471409703856660     
+ 
+ Samex in con
+    2  0.1923181E+00  0.5158886E+00  0.2585688E+00  0.2597220E+00  0.1117146E-06
+ 
+    >>Normalized Constraint Values:
+    -0.31E+00
+    -0.35E-03
+    -0.26E+00
+ 
+ 
+    >>Objective:       0.1937       0.0010       0.1947
+ 
+ Samex in obj
+ grad obj  0.414909152569065       0.471628148631939     
+ 
+ Samex in con
+    3  0.1947166E+00  0.2355367E+00  0.1749918E-02  0.8970378E-02  0.3692821E-02
+ 
+    >>Normalized Constraint Values:
+    -0.32E+00
+     0.60E-03
+    -0.24E+00
+ 
+ 
+    >>Objective:       0.1936       0.0010       0.1946
+ 
+ Samex in obj
+ grad obj  0.419631400655708       0.466004626479131     
+ 
+ Samex in con
+    4  0.1946066E+00  0.1828386E-01  0.1273199E-02  0.1142565E-01  0.1012110E-03
+ 
+    >>Normalized Constraint Values:
+    -0.37E+00
+     0.36E-02
+    -0.16E+00
+ 
+ 
+    >>Objective:       0.1928       0.0010       0.1937
+ 
+ Samex in obj
+ grad obj  0.439781067268609       0.442678190122044     
+ 
+ Samex in con
+    5  0.1937356E+00  0.7673509E-01  0.6022202E-02  0.2357038E-02  0.1408667E-04
+ 
+    >>Normalized Constraint Values:
+    -0.38E+00
+    -0.28E-03
+    -0.16E+00
+ 
+ 
+    >>Objective:       0.1933       0.0010       0.1942
+ 
+ Samex in obj
+ grad obj  0.441204802574385       0.442458856916005     
+ 
+ Samex in con
+    6  0.1942455E+00  0.8750991E-02  0.2015764E-02  0.1061622E-02  0.2652845E-06
+ 
+ The solution was found.
+ 
+ The final value of the objective function is   0.194245513386092     
+ 
+ The optimal values of X are:
+ 
+ X  (           1 ) =   0.440277406272038      in^2
+ X  (           2 ) =   0.439016452167585      in^2
+ 
+ The multipliers for the equality constraints are:
+ 
+ LAM(           1 ) =   6.552611627707066E-007
+ LAM(           2 ) =   0.155604062313861     
+ LAM(           3 ) =   3.208213999176580E-005
+ 
+ Weight and its variance:  0.193277619502783       9.678938833096451E-004
